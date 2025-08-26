@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/aceflaatiri-dev/rest-api-checkpoint/issues"
   },
-  "homepage": "https://github.com/aceflaatiri-dev/rest-api-checkpoint#readme"
+  "homepage": "https://github.com/aceflaatiri-dev/rest-api-checkpoint#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0"
+  }
 }
